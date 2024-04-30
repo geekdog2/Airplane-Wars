@@ -1,0 +1,41 @@
+﻿  源.cpp
+D:\c\planAIr\planAIr\aieplay.h(109,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(109,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(110,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(110,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(116,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(116,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(122,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(122,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(123,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(123,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(162,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(240,14): warning C4018: “>”: 有符号/无符号不匹配
+  (编译源文件“源.cpp”)
+  
+D:\c\planAIr\planAIr\aieplay.h(295,13): warning C4305: “参数”: 从“double”到“float”截断
+  (编译源文件“源.cpp”)
+  
+  planAIr.vcxproj -> D:\c\planAIr\x64\Debug\planAIr.exe
